@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "kind": "xiaozhuang-dsh-plugin-export",
+  "createdAt": "2026-08-26T11:46:44.304Z",
+  "sourceCommit": "49b1c5207b1556515752c6bf9e7902c1a5964ad9",
+  "plugins": [
+    {
+      "id": "multi-window",
+      "name": "多对话分屏",
+      "rows": [
+        {
+          "id": "ui-multi-window",
+          "name": "@deepseek-ai/dsh-client-ui-multi-window"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "repository",
+          "path": "packages/client/ui-multi-window"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/README.md",
+      "size": 3826,
+      "sha256": "7526773b16e361a7adc0404b92928e1f422a3371c71c7708a4bd039124b67ee0"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/README.zh.md",
+      "size": 3371,
+      "sha256": "1a29232b56da570305beb564a61c038b691fc4e33b2736c59c45d985076bf3e4"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/client.js",
+      "size": 30127,
+      "sha256": "24aaad846f21af98d44805af35fa6fc095a4798d2a884896efcced6e5d00eeb9"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/index.js",
+      "size": 164,
+      "sha256": "535cb6238f577222c8c67b2f279c9feb4c6dbc7710fbb0dace12f64cf10acc70"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/invariant.js",
+      "size": 434,
+      "sha256": "ab3ccfc8ada0a4f57d88693997a3429fcc1d015f772fa28824d4ae703b0d08de"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/client/SplitPaneWorkspace.d.ts",
+      "size": 872,
+      "sha256": "8cb7ce13326ddd407a16050df24be9cd764452d29715c4395634a451a5ba2816"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/client/WindowMenuAction.d.ts",
+      "size": 643,
+      "sha256": "f9d2d5a6f488b310403af78226d55f916887cc7fab1d24a6501b474d1ae0e1f2"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/client/coordinator.d.ts",
+      "size": 2343,
+      "sha256": "428c9e9bc498546ee7afe9d8b6803f93cfa6df2530d2de4b17e55a20189fd950"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/client/index.d.ts",
+      "size": 1354,
+      "sha256": "ea73bc7fcb2e290cde05884ca806c2e664896e3b942486d2a59c5308385f3959"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/client/locales.d.ts",
+      "size": 717,
+      "sha256": "57a09fe2b42d97fc64c6e0393644d72e990f6f026d55aa6e1bdb376aa7e864b6"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/index.d.ts",
+      "size": 158,
+      "sha256": "fbd36552f3f1273d7472d05ed6d899037b5fcd3775c5bff97caa3e138b8a5d02"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/lib/types/invariant.d.ts",
+      "size": 261,
+      "sha256": "f2c31efee0ebddbc5d6424bfb4561ab961cfa7cacbb4810a43056b7b23fa075e"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/package.json",
+      "size": 2341,
+      "sha256": "a992407f423ba194162454cf5fd910aceca993a418c8b40ea1acd59d48b0642b"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/client/SplitPaneWorkspace.module.css",
+      "size": 3225,
+      "sha256": "1fddecedcbad8cef6e98ab56995ac485b510be65cecedddae8065fed9da3b16b"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/client/SplitPaneWorkspace.tsx",
+      "size": 14674,
+      "sha256": "5cc1a9300bbcbb9336a6fdd81a3cefafcd6375f16d936705e51670448f4f886a"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/client/WindowMenuAction.tsx",
+      "size": 1642,
+      "sha256": "a10ff578ddd27e83d9bc4610f755596bb62b5dc4364d552df27466ced53d2041"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/client/coordinator.ts",
+      "size": 5688,
+      "sha256": "c5bb0efa6b99368de5d3c95a7e9b3e4503adb17a6f0f0e495b34f7428c7c711b"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/client/index.ts",
+      "size": 7649,
+      "sha256": "b0392e6b64232f8443dccefb1e1ed3648768f134330b7879476c5422f8428ea6"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/client/locales.ts",
+      "size": 1021,
+      "sha256": "a5b2b7be513c25daa07ff0b75646d43681a4df9739bd5889b83dad7faaca0f1d"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/css-modules.d.ts",
+      "size": 99,
+      "sha256": "d4395f8ef04ea16601b9b84979df7de5af4ccfeb7b094c510f1442f3d8d5785a"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/index.ts",
+      "size": 117,
+      "sha256": "1f7c8cd6e0806de1a393f9745650d8dcf40de2d0a7de24409cd66fb406acf54a"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/src/invariant.ts",
+      "size": 546,
+      "sha256": "5f60291706fe94e890c4de988fa9ef43ed81e5b82a5bae12915c53d85c2e26ac"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/tsconfig.json",
+      "size": 461,
+      "sha256": "2ed8d1f12280b18e791ce9f1a147692e0ff1a22bf6f9ad8c9fc2fadeef81d6b9"
+    },
+    {
+      "path": "payload/multi-window/repository/packages/client/ui-multi-window/tsdown.config.ts",
+      "size": 173,
+      "sha256": "127816d80a488d1a9bc461ad3991bc38479dba676fc13ac5ca53e9445a515800"
+    }
+  ],
+  "excludes": [
+    "node_modules",
+    "Git metadata",
+    "tests",
+    "caches",
+    "credentials",
+    "sessions",
+    "conversation history",
+    "user settings"
+  ],
+  "repository": "https://github.com/niushuanan/dsh-multi-window",
+  "releaseTag": "xiaozhuang-v0.4.2",
+  "sourceRepository": "https://github.com/niushuanan/xiaozhuang-dsh"
+}
